@@ -1,2 +1,2 @@
 my name is Thang
-study git now
+i study git now
