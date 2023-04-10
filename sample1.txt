@@ -1,1 +1,1 @@
-my name is Thang
+study git
