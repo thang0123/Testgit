@@ -1,1 +1,2 @@
 I am learning Git command
+I study basic Git 
